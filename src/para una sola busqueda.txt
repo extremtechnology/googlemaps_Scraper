@@ -1,0 +1,15 @@
+'''
+Love It? Star It! ⭐ https://github.com/omkarcloud/google-maps-scraper/
+'''
+queries = [
+    {
+        "keyword": "empresas en don benito",
+        "max_results" : 120,
+    },
+    {
+        "keyword": "empresas en villanueva de la serena",
+        "max_results" : 120,
+    }
+]
+
+number_of_scrapers = 16

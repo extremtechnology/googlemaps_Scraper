@@ -1,0 +1,18 @@
+Restaurant in cary North Carolina EEUU,120
+Restaurant in raleigh North Carolina EEUU,120
+Restaurant in apex North Carolina EEUU,120
+Restaurant in morrisville North Carolina EEUU,120
+Restaurant in durham North Carolina EEUU,120
+Restaurant in charlotte North Carolina EEUU,120
+supermarket in cary North Carolina EEUU,120
+supermarket in raleigh North Carolina EEUU,120
+supermarket in apex North Carolina EEUU,120
+supermarket in morrisville North Carolina EEUU,120
+supermarket in durham North Carolina EEUU,120
+supermarket in charlotte North Carolina EEUU,120
+wine shop in cary North Carolina EEUU,120
+wine shop in raleigh North Carolina EEUU,120
+wine shop in apex North Carolina EEUU,120
+wine shop in morrisville North Carolina EEUU,120
+wine shop in durham North Carolina EEUU,120
+wine shop in charlotte North Carolina EEUU,120
