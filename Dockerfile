@@ -10,8 +10,8 @@ COPY requirements.txt /app/
 
 # Instalar las dependencias de Python desde el archivo requirements.txt
 # Solo es necesario si tu proyecto Python tiene dependencias adicionales
-RUN sudo apt-get update && \
-    sudo apt-get install -y python3-pip && \
+RUN apt-get update && \
+    apt-get install -y python3-pip && \
     pip3 install --no-cache-dir -r requirements.txt
 
 # Copiar el resto de los archivos de tu aplicación o scripts al contenedor
@@ -20,4 +20,3 @@ COPY . /app
 # Configurar el comando para ejecutar tu aplicación
 # Ajusta este comando según sea necesario para iniciar tu aplicación
 CMD ["python3", "main.py"]
-
